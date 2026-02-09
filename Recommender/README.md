@@ -105,15 +105,14 @@ We welcome contributions!
 
 ## 📬 **Contact**  
 
-Developer: **Om Gadekar**
-📧 **Email**: omgadekar25@gmail.com  
-**github**: https://github.com/omgadekar2003/
+Developer: Mansi  Marathe
+Email : mansimarathe9021@gmail.com
 
-**GitHub**: [Om Gadekar GitHub](https://github.com/omgadekar2003/Recommender) 
-**LinkedIn**: [Om Gadekar LinkedIn](https://www.linkedin.com/in/om-haribhau-gadekar/) 
-**Instagram**: [Om Gadekar Instagram](https://www.instagram.com/_.__o_g__._/) 
+**GitHub**: https://github.com/MansiMarathe/mlopsproject/edit/main/Recommender/
+
 
 Thank you for using **WellVibe Health**! Stay healthy and take care of your well-being.
         
+
 
 
