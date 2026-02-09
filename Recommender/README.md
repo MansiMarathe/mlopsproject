@@ -1,4 +1,4 @@
-# Well Vibe Health MLOPS PRJECT  🩺  
+# Heal Vibe Health MLOPS PRJECT  🩺  
 
 **An AI-Powered Symptom Checker and Health Advisor**  
 
@@ -113,6 +113,7 @@ Email : mansimarathe9021@gmail.com
 
 Thank you for using **HealVibe Health**! Stay healthy and take care of your well-being.
         
+
 
 
 
