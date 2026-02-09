@@ -111,8 +111,9 @@ Email : mansimarathe9021@gmail.com
 **GitHub**: https://github.com/MansiMarathe/mlopsproject/edit/main/Recommender/
 
 
-Thank you for using **WellVibe Health**! Stay healthy and take care of your well-being.
+Thank you for using **HealVibe Health**! Stay healthy and take care of your well-being.
         
+
 
 
 
